@@ -1,0 +1,21 @@
+.box-header{
+    background-color: #00bc8ae5;
+    padding: 10px !important;
+}
+
+.box-title{
+    color: aliceblue !important;
+}
+
+.box-body{
+  background-color:gainsboro !important;
+  border-radius: 0 !important;
+}
+
+.head-text{
+    color: black !important;
+}
+
+.card-body-color{
+    background-color:gainsboro;
+}
